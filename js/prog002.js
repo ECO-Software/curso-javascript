@@ -7,6 +7,8 @@ let apellido = "Perez"; // Dato de tipo string
 let edad = 30; // Dato de tipo number
 let fechaNacimiento = new Date(); // Dato de tipo Date
 console.log(nombre, apellido, edad, fechaNacimiento);
+nombre = "Leonel Messi"; // Cambio de valor
+console.log(nombre); // Mostrando nuevo valor de nombre
 /******************************************
  *             Constantes                 *
  ******************************************/

@@ -12,7 +12,7 @@
 
 .aside {
     height: 100%;
-    width: 10rem;
+    width: 12rem;
     position: absolute;
     left: 0;
     top: 100px;
@@ -130,4 +130,35 @@
 .image-center img{
     width: 500px;
     height: auto;
+}
+
+.code{
+    padding: 1rem;
+    display: inline-block;
+    text-align: center;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: #000 dotted 1px;
+}
+
+.code .yellow{
+    color: #d3b615;
+}
+
+.code .blue{
+    color: #0066ff;
+}
+
+.code .green{
+    color: #009900;
+}
+
+.code .orange{
+    color: #ff9900;
+}
+
+.homework{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    margin-left: 10rem;
 }
