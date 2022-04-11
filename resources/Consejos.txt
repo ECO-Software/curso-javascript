@@ -1,0 +1,22 @@
+CONSEJOS
+01 - Mira el video completo.
+02 - Toma notas a mano del curso completo de Javascript.
+03 - Cuando el video termine si podes de memoria intenta reproducir lo aprendido.
+04 - Al otro día repite el punto 3 usando tu memoria.
+05 - Tipea el código, evita ayudarte copiando y pegando código (grabe error), escribe para memorizar.
+06 - No metas cosas diferentes en tu cabeza, si estas con Javascript, nada de Python u otro lenguaje. no te distraigas.
+07 - Apoyate con un libro cuando tengas un tiempo y no estés frente a un PC.
+08 – La teoría es pesada, pero necesaria para entender intenta digerirla.
+09 - Google es tu mejor amigo, busca lo que necesites.
+10 - Si no comprendes un tema no te amargues, sigue con otro, o busca ayuda pero no tires todo al diablo, esto te va a pasar, nos paso a todos.
+11 - Es imposible acordarse todo, nos pasa a todos, no existe nadie que lo haga.
+12 - Esto lleva tiempo, no esperes ser programador en 15 días, NO EXISTE TAL COSA. Es como querer ser medico en 15 días, IMPOSIBLE.
+13 - Intenta juntarte con gente que estudie lo mismo que tu. Participa en un foro, etc.
+14 - Pone comentarios en el código que te expliquen que es lo que hace ese código.
+15 - Aprende ingles básico o técnico (super importante).
+
+SALUD
+01 – Toma breaks cada hora de estudio.
+02 – Cuida tu postura frente al PC.
+03 - Tienes que hacer ejercicio al menos 3 veces por semana, recomiendan como mínimo 180 min. por semana.
+04 - Exponerse al sol al menos 20 min. por día.
