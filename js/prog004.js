@@ -19,3 +19,5 @@ apellido = "Marley";// asignacion de valor
 console.log(nombre, espacio, apellido);// imprime el resultado
 console.log('"DOM" es una libreria para crear paginas web');// imprime el resultado
 console.log(`Se a registrado el usuario ${nombre} ${apellido}`);// imprime el resultado
+
+console.log("Ir a test/test001");
